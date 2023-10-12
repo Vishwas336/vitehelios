@@ -56,7 +56,7 @@ function zoomed(transform) {
   let origin = transform.invert([0, 0]);
   let endingPoint = transform.invert([width, height]);
   console.log(origin,endingPoint)
-
+//
   let x0 = origin[0];
   let y0 = origin[1];
 

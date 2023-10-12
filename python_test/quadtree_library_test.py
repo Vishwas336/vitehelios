@@ -78,6 +78,6 @@ quads.visualize(quadtree)
 
 # In[ ]:
 
-
+#
 
 
